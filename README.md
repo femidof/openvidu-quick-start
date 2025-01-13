@@ -14,4 +14,4 @@ flutter run
 ```
 
 ## Environment Variable 
-They are available at ```utils.dat``` change those variables to your suit.
+They are available at ```utils.dart``` change those variables to your suit.
